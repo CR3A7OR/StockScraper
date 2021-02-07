@@ -1,5 +1,5 @@
 # StockScraper
-A Python script that scrapes some stock market information on the stock of your choice from Market Watch. It will additionally print a graph of the current stock ticker from yahoo finance showing the past 62 days closing prices.
+A Python script that scrapes some stock market information on the stock of your choice from Market Watch. It will additionally print a graph of the current stock ticker from yahoo finance showing the past 62 days closing prices. The termplot.py file is imported into the stonkScraper.py file but no interaction with it needed.
 
 # Installation
 You can install the requirments.txt file with:
