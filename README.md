@@ -10,12 +10,18 @@ The script can take input of an organisations name and offer possible stocks you
 > python3 stonkScraper.py
 
 
+
+![github-small](example2.png)
+
 The script can take a direct stock code if known, such as:
-> python3 stonkScraper.py GME
+> python3 stonkScraper.py BABA
 
 
 
+![github-small](example1.png)
 
 ```diff
 - DISCLAIMER: THE GRAPH GENERATION CODE IS TAKEN AND MODIFIED FROM https://github.com/iswdp/termplot AND IS A CLOSE REPRESENTATION OF THE YAHOO TICKER 
 ```
+
+![github-small](example3.png)
